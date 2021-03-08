@@ -8,6 +8,7 @@ class MessageDeliverApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("MessageDeliverApplicationTests.contextLoads");
     }
 
 }
