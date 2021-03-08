@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 /**
  * ByteUtil简介
  *
- * @author liyue20
+ * @author liy
  * @date 2021-03-08 21:47
  */
 public class ByteUtil {
